@@ -40,9 +40,9 @@ index.php
 
 # Ouput
 1. Ouput Screen
-![alt text](https://github.com/fauzanmh/gigaming/blob/main/ouput-screen.png?raw=true)
+![output-screen](https://user-images.githubusercontent.com/33658024/112792900-80777400-908e-11eb-9f9f-0368474eecae.png)
 2. Ouput File
-![alt text](https://github.com/fauzanmh/gigaming/blob/main/ouput-file.png?raw=true)
+![output-file](https://user-images.githubusercontent.com/33658024/112792910-853c2800-908e-11eb-849a-ae31a1817505.png)
 
 
  
