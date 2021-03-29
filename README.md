@@ -38,5 +38,11 @@ index.php
 26. Line 51 menampilkan / mengeksekusi statment program ke layar monitor
 27. Line 52 menulis teks ke file dengan nama backend-titanic-output.json yang berisi jawaban no.1 dan no.2
 
+# Ouput
+1. Ouput Screen
+![alt text](https://github.com/fauzanmh/gigaming/blob/main/ouput-screen.png?raw=true)
+2. Ouput File
+![alt text](https://github.com/fauzanmh/gigaming/blob/main/ouput-file.png?raw=true)
+
 
  
